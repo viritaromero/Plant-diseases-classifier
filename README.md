@@ -1,5 +1,5 @@
 # Creating an AI app that detects diseases in plants using Facebook’s deep learning platform: PyTorch
-Everything you need to recreate this project is on the jupyter notebook. Everything was coded in Google Colab. I uploaded the dataset to Google Drive, so you can download it directly.
+Everything you need to recreate this project is on the jupyter notebook. Everything was coded in Google Colab. I uploaded the dataset to Google Drive, so you can download it directly. For more details, the notebook includes the instructions to follow.
 </br>
 
 Read more about this project on my blog: https://medium.com/datadriveninvestor/creating-an-ai-app-that-detect-diseases-in-plants-using-facebooks-deep-learning-platform-pytorch-15faaeb6bec3
