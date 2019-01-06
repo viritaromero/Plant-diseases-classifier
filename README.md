@@ -1,4 +1,5 @@
 # Creating an AI app that detects diseases in plants using Facebook’s deep learning platform: PyTorch
+<img src="https://cdn-images-1.medium.com/max/800/1*IbJF_6mRTMsG9gL0j8uz5Q.jpeg">
 
 According to the Food and Agriculture organization of the United Nations (UN), transboundary plant pests and diseases affect food crops, causing significant losses to farmers and threatening food security.
 
@@ -30,7 +31,7 @@ The project is broken down into multiple steps:
 * Use the trained classifier to predict image content
 
 
-INSTRUCTIONS
+<B>INSTRUCTIONS</B>
 
 Everything you need to recreate this project is on the jupyter notebook. Everything was coded in Google Colab, because of its GPU. I uploaded the dataset to Google Drive, so you can download it directly. For more details, the notebook includes the instructions to follow.
 
